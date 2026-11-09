@@ -5,6 +5,7 @@
   "criteria": "Ready when the model live on the site was tested on real range photos and found at least 90% of the holes with no more than 10% false marks.",
   "status_note": "Live v1 tested 9/11 on 8 real photos from Shay (repo hydra-tactical data/real_targets): misses most holes on 7 of 8. v2 trained, waiting for a real-photo test.",
   "updated": "2026-11-09",
-  "real_photos": "hydra-tactical/data/real_targets (8 photos, 384x512)"
+  "real_photos": "hydra-tactical/data/real_targets (8 photos, 384x512)",
+  "real_photos_drive_folder": "Drive: HYDRA TACTICAL/תמונות מטרות (id 1pUfG4UD1BbFlOiCMdVbFfD1LwXKeIvar)"
  }
 }
