@@ -37,7 +37,8 @@
   "fb_images": [],
   "video": "https://raw.githubusercontent.com/Shay260/hydra-media/main/posts/2026-11-12-launch/reel.mp4",
   "cover": "https://raw.githubusercontent.com/Shay260/hydra-media/main/posts/2026-11-12-launch/cover.jpg",
-  "note": "ממתין לאישור הסרטון. בפייסבוק הקישור לאתר בתגובה הראשונה. להוסיף שיר טרנדי מהאפליקציה אם מעלים ידנית."
+  "note": "אושר בצ׳אט ב-9/11. עולה רק אחרי שאבחון המטרה מוכן (status/features.json). אם הוא לא מוכן ביום הזה, הפוסט נדחה ליום הפנוי הבא. בפייסבוק הקישור לאתר בתגובה הראשונה.",
+  "gate": "target_diagnosis"
  },
  {
   "date": "2026-11-13",

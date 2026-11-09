@@ -1,0 +1,9 @@
+{
+ "target_diagnosis": {
+  "ready": false,
+  "live_model": "v1 (enabled 2026-11-09, with a 'check every hit' reminder)",
+  "criteria": "Ready when the model live on the site was tested on real range photos and found at least 90% of the holes with no more than 10% false marks.",
+  "status_note": "v2 trained (99.5% on partly synthetic test set). Waiting for the real-photo test before it goes live.",
+  "updated": "2026-11-09"
+ }
+}
